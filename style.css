@@ -1,0 +1,36 @@
+body{
+    direction: rtl;
+}
+textarea{
+  
+    width: 500px;
+    height: 80px;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+  background-color: aquamarine;
+   font-size: xx-large;
+}
+button{
+    width: 40px;
+    height: 85px;
+    position: absolute;
+    left: 35%;
+    top: 50%;  
+}
+#container{
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    left: 40%;
+    top: 55%;
+   font-size: xx-large;
+}
+#S,
+#D,
+#k,
+#aala
+{
+    width: 500px;
+    height: 40px;
+}
